@@ -122,4 +122,5 @@ This pattern is the baseline for every AWS architecture:
 
 ---
  
-**Author:** Vinayaka K — DevOps Engineer | [LinkedIn] (www.linkedin.com/in/vinayak-k)
+**Author:** Vinayaka K — DevOps Engineer 
+[LinkedIn](www.linkedin.com/in/vinayak-k) | [GitHub](https://github.com/vinayak432)

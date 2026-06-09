@@ -280,4 +280,4 @@ At scale, use AWS Transit Gateway instead.
 
 **Vinayaka K** — DevOps Engineer
 Bengaluru, India
-[LinkedIn](www.linkedin.com/in/vinayak-k) | [GitHub](https://github.com/vinayak432)
+[LinkedIn](https://www.linkedin.com/in/vinayak-k) | [GitHub](https://github.com/vinayak432)

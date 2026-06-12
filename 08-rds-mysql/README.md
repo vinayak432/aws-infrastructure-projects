@@ -153,5 +153,6 @@ SELECT * FROM employees;
 ```
 
 ---
+**Author:** Vinayaka K — DevOps Engineer 
+[LinkedIn](https://www.linkedin.com/in/vinayak-k) | [GitHub](https://github.com/vinayak432/aws-infrastructure-projects.git)
 
-**Author:** Vinayaka K — DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/vinayak-k)

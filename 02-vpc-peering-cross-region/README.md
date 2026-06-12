@@ -278,6 +278,6 @@ At scale, use AWS Transit Gateway instead.
 
 ## Author
 
-**Vinayaka K** — DevOps Engineer
-Bengaluru, India
-[LinkedIn](https://www.linkedin.com/in/vinayak-k) | [GitHub](https://github.com/vinayak432)
+**Author:** Vinayaka K — DevOps Engineer 
+[LinkedIn](https://www.linkedin.com/in/vinayak-k) | [GitHub](https://github.com/vinayak432/aws-infrastructure-projects.git)
+

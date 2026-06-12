@@ -182,4 +182,6 @@ This is the baseline for:
 
 ---
 
-**Author:** Vinayaka K — DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/vinayak-k)
+**Author:** Vinayaka K — DevOps Engineer 
+[LinkedIn](https://www.linkedin.com/in/vinayak-k) | [GitHub](https://github.com/vinayak432/aws-infrastructure-projects.git)
+

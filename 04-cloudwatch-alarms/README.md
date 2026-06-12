@@ -156,4 +156,5 @@ This maps directly to production observability:
 
 ---
 
-**Author:** Vinayaka K — DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/vinayak-k)
+**Author:** Vinayaka K — DevOps Engineer 
+[LinkedIn](https://www.linkedin.com/in/vinayak-k) | [GitHub](https://github.com/vinayak432/aws-infrastructure-projects.git)
